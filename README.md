@@ -1,7 +1,6 @@
 -<img src="https://komarev.com/ghpvc/?username=raminder1901&label=Profile+views&color=129e00&style=plastic">
-- 
 -  
--    Hello, I’m Raminder!
+- Hello, I’m Raminder!
 - I am currently a grade 11 high-school student in Ontario, Canada.
 - I'm interested in coding and I am trying to learn c++, python, and other technologies.
 - Hopefully I will go into CE or SE at the University of Waterloo!
