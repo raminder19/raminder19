@@ -3,3 +3,5 @@
 - I'm interested in coding and I am trying to learn c++, python, and other technologies.
 - Hopefully I will go into CE or SE at the University of Waterloo!
 - 🙋‍♂️
+
+<img src="https://github-readme-stats.vercel.app/api?username=raminder19&&show_icons=true&title_color=fffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
