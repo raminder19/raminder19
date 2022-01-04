@@ -2,8 +2,8 @@
 -  
 - <h3 align="center">Hello, I’m Raminder!</h3>
 - I am currently a grade 11 high-school student in Ontario, Canada.
-- I'm interested in coding and I am trying to learn HTML, CSS, CPP and other technologies.
-- Hopefully I will go into CE or SE at the University of Waterloo!
+- I'm interested in coding and I am trying to learn HTML, CSS, CPP, Python and other technologies.
+- Hopefully I will go into CE or SE at the University of Waterloo! (Unlikely)
 - 🙋‍♂️
 
 
